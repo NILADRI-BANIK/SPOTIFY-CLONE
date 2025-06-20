@@ -1,0 +1,29 @@
+https://drive.google.com/drive/folders/1zJNIDDAjnFVEzv-KC1h-OjudO2YG7hRn
+
+github
+https://github.com/meprashantkumar/spotify
+npm init  -y
+npm i express mongoose jsonwebtoken bcrypt cookie-parser dotenv
+npm i -D nodemon
+D:\SPOTIFY CLONE\frontend>npm create vite@latest
+npm install
+npm install tailwindcss @tailwindcss/vite
+npm i axios react-hot-toast
+npm install cloudinary multer datauri
+
+
+mongodb
+https://cloud.mongodb.com/v2/684da3e5643ad91c007b65c9#/overview?automateSecurity=true&connectCluster=SPOTIFY-CLONE
+https://cloud.mongodb.com/v2/684da3e5643ad91c007b65c9#/metrics/replicaSet/684da4cfb411ef65bf0db026/explorer/SpotifyClone/users/find
+After project:
+https://cloud.mongodb.com/v2/684da3e5643ad91c007b65c9#/overview
+
+Username
+niladrib657
+Password
+niladrib657
+
+cloudinary
+https://console.cloudinary.com/app/c-7790dda87b337a0d73eaf80fca8944/home/dashboard
+git
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF0NkyQVLUX9qDXpzGbjTUI5h5KU+B7YDlYR7Vm+stSf niladribanik234@gmail.com
